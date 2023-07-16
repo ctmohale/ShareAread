@@ -1,0 +1,7 @@
+{
+  "name": "shere-a-read",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
